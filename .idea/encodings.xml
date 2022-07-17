@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/onlineChat/MyFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/onlineChat/chat.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/onlineChat/onLineChaClient.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/onlineChat/onlineChatServer.java" charset="UTF-8" />
+  </component>
+</project>
